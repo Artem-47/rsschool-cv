@@ -29,6 +29,7 @@ Installer (09.2016 – 03.2019)
 * Provide assistance to more skilled workers involved in the adjustment, maintenance, part replacement, and repair of tools, equipment, and machines.
 
 * Position vehicles, machinery, equipment, physical structures, and other objects for assembly or installation, using hand tools, power tools, and moving equipment.
+
 ### EDUCATION
 
 * College diploma in law field (1997-1999)
