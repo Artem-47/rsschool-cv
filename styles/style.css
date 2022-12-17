@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header__body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-family: 'lato';
+    padding: 10px;
+}
+
+.aside {
+    background-color: aquamarine;
+}
+
+.main {
+    background-color: red;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+
+}
+
+li {
+    padding: 1rem;
+}
