@@ -1,7 +1,25 @@
 * {
+    font-family: 'lato';
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+}
+
+body {
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+a:hover {
+    color: #0b5f74;
+    transition: 0.5s ease-in-out;
 }
 
 .header__body {
@@ -15,21 +33,13 @@
 }
 
 .container {
-    max-width: 1000px;
+    max-width: 1440px;
     margin: 0 auto;
 }
 
 h2 {
-    font-family: 'lato';
+
     padding: 10px;
-}
-
-.aside {
-    background-color: aquamarine;
-}
-
-.main {
-    background-color: red;
 }
 
 ul {
@@ -40,4 +50,29 @@ ul {
 
 li {
     padding: 1rem;
+    list-style-type: none;
+}
+
+.main__wraper {
+    display: flex;
+    justify-content: center;
+}
+
+.about {
+
+    text-align: center;
+    padding: 0 0 30px 0;
+    margin: 0 auto;
+}
+
+p {
+    margin: 0 0 10px 0;
+}
+
+h4 {
+    text-align: center;
+}
+
+.main__wraper {
+    display: flex;
 }
