@@ -1,2 +1,3 @@
 # rsschool-cv
-https://Artem-47.github.io/
+rsschool-cv-html
+https://artem-47.github.io/rsschool-cv/
